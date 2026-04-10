@@ -4,9 +4,13 @@
 
 **An autonomous agent built on Google Gemini API × Discord.** It features a three-layer architecture where the agent creates its own skills, maintains manuals, and runs autonomously via cron — all on Docker, extensible instantly without rebuilds. Designed with a focus on being lightweight, secure, and self-extensible.
 
-> The background and design philosophy are covered in detail in the [Zenn article](https://zenn.dev/nishina__n/articles/69587684b36113).
-
+> The background and design philosophy are covered in detail in the [Zenn article](https://zenn.dev/nishina__n/articles/69587684b36113).<br>
 > For details on API key concealment, see [this article](https://zenn.dev/nishina__n/articles/2fd0f90086841b).
+
+
+> [!NOTE]
+> **開発終了 / Development Ended** <br>
+> This project is no longer active. It has been succeeded by [Voxclaw](https://github.com/Nishina-N/voxclaw).
 
 ---
 
