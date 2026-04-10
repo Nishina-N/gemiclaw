@@ -7,6 +7,10 @@
 > 制作背景と設計思想は [このZenn記事](https://zenn.dev/nishina__n/articles/69587684b36113) で詳しく書いています。
 > APIキーの隠匿化については[こちらの記事](https://zenn.dev/nishina__n/articles/2fd0f90086841b)に記載しています。
 
+> [!NOTE]
+> **開発終了 / Development Ended** <br>
+> このプロジェクトの開発は終了し、その成果を引き継いで [Voxclaw](https://github.com/Nishina-N/voxclaw) を開発しています。
+
 ---
 
 ## 何ができるか
