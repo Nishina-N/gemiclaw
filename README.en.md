@@ -5,7 +5,7 @@
 **An autonomous agent built on Google Gemini API × Discord.** It features a three-layer architecture where the agent creates its own skills, maintains manuals, and runs autonomously via cron — all on Docker, extensible instantly without rebuilds. Designed with a focus on being lightweight, secure, and self-extensible.
 
 > The background and design philosophy are covered in [this article](https://niseng.biz/software/gemiclaw-manual-engineering-en/) (English) and the [Zenn article](https://zenn.dev/nishina__n/articles/69587684b36113) (Japanese).<br>
-> For details on API key concealment, see [this article](https://zenn.dev/nishina__n/articles/2fd0f90086841b) (Japanese).
+> For details on API key concealment (keybinder), see [this article](https://niseng.biz/software/keybinder-hide-api-keys-from-ai-agents-en/) (English) and the [Zenn article](https://zenn.dev/nishina__n/articles/2fd0f90086841b) (Japanese).
 
 
 ---
