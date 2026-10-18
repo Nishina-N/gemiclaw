@@ -8,10 +8,6 @@
 > For details on API key concealment, see [this article](https://zenn.dev/nishina__n/articles/2fd0f90086841b).
 
 
-> [!NOTE]
-> **開発終了 / Development Ended** <br>
-> This project is no longer active. It has been succeeded by [Voxclaw](https://github.com/Nishina-N/voxclaw).
-
 ---
 
 ## What It Does
@@ -75,3 +71,9 @@ Mention the bot on Discord to start chatting.
 | [Setup Guide](docs/setup.en.md) | Prerequisites, API key setup, Google API configuration, Docker startup |
 | [Architecture](docs/architecture.en.md) | Design philosophy, component overview, data flow, mutable/immutable separation |
 | [Skills Guide](docs/skills.en.md) | Skill list, how to create skills, Key Binder endpoint reference |
+
+---
+
+## Related Projects
+
+- [Voxclaw](https://github.com/Nishina-N/voxclaw) — a separate project that branched off from Gemiclaw
